@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <title>Ghi chú</title>
+</head>
+<body>
+    <div class="popup">
+        <div class="popup-wrapper">
+            <header>
+                <h3>Thêm ghi chú mới</h3>
+                <span>X</span>
+            </header>
+            <div class="content">
+                <div class="title">
+                    <label for="note-title">Tiêu đề</label>
+                    <input type="text" id="note-title" />
+                </div>
+                <div class="discription">
+                    <label for="disc">Mô tả</label>
+                    <textarea id="disc"></textarea>
+                </div>
+                <button>Thêm</button>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="add-note">
+            <div class="icon"><p>+</p></div>
+            <p>Thêm ghi chú mới</p>
+        </div>
+    </div>
+
+    <script src="/js/main.js"></script>
+</body>
+</html>
