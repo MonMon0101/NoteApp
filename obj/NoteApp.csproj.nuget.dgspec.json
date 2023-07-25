@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TranTrungThang\\source\\repos\\NoteApp\\NoteApp.csproj": {}
+    "C:\\Users\\TranTrungThang\\Source\\Repos\\CNPM\\NoteApp\\NoteApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TranTrungThang\\source\\repos\\NoteApp\\NoteApp.csproj": {
+    "C:\\Users\\TranTrungThang\\Source\\Repos\\CNPM\\NoteApp\\NoteApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TranTrungThang\\source\\repos\\NoteApp\\NoteApp.csproj",
+        "projectUniqueName": "C:\\Users\\TranTrungThang\\Source\\Repos\\CNPM\\NoteApp\\NoteApp.csproj",
         "projectName": "NoteApp",
-        "projectPath": "C:\\Users\\TranTrungThang\\source\\repos\\NoteApp\\NoteApp.csproj",
+        "projectPath": "C:\\Users\\TranTrungThang\\Source\\Repos\\CNPM\\NoteApp\\NoteApp.csproj",
         "packagesPath": "C:\\Users\\TranTrungThang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TranTrungThang\\source\\repos\\NoteApp\\obj\\",
+        "outputPath": "C:\\Users\\TranTrungThang\\Source\\Repos\\CNPM\\NoteApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TranTrungThang\\AppData\\Roaming\\NuGet\\NuGet.Config",
