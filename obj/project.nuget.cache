@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8BUplcGE1gK9YDKsoyFbkzucU0B73Dq9h7per9asApDQHtfQVk4lZ3ABHWdyK7yQDPf8zKbkBroVqOL+TNRZPA==",
+  "dgSpecHash": "Sx/qR4rA+ByQVd9Sp2eHT9XbOvSquPbuHNnz3f8nxfWWgUHJFNLK3fbHsKyWI/Hmqglq4AgKhcm+532jstN8mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TranTrungThang\\Source\\Repos\\CNPM\\NoteApp\\NoteApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\NoteApp\\NoteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
